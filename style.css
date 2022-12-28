@@ -1,0 +1,13 @@
+.code{
+    color: black;
+    
+}
+h1{
+    text-align: center;
+}
+ul{
+    border-right: 5px solid gray ;
+    width :55px;  
+    margin-left: 0;
+    
+  }
